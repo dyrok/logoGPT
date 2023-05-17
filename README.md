@@ -41,6 +41,10 @@ Please note that the difficulty level and employee name must be specified before
 
 Use these like this its neccesary to Type them in a single message and include `/generate`, `/empnm`, `/diff`
 
+## Screenshots:
+![Working of LogoGPT](https://github.com/dyrok/logoGPT/assets/90748055/3de30935-e354-4104-860c-1f5df9d1cb33)
+
+
 ## Contact 💬
 
 For any questions or feedback, please feel free to reach out:
